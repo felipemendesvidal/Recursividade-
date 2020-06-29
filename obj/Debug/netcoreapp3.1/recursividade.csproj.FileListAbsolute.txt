@@ -1,0 +1,13 @@
+C:\Users\Phellipe\Desktop\senai\c#\recursividade\bin\Debug\netcoreapp3.1\recursividade.exe
+C:\Users\Phellipe\Desktop\senai\c#\recursividade\bin\Debug\netcoreapp3.1\recursividade.deps.json
+C:\Users\Phellipe\Desktop\senai\c#\recursividade\bin\Debug\netcoreapp3.1\recursividade.runtimeconfig.json
+C:\Users\Phellipe\Desktop\senai\c#\recursividade\bin\Debug\netcoreapp3.1\recursividade.runtimeconfig.dev.json
+C:\Users\Phellipe\Desktop\senai\c#\recursividade\bin\Debug\netcoreapp3.1\recursividade.dll
+C:\Users\Phellipe\Desktop\senai\c#\recursividade\bin\Debug\netcoreapp3.1\recursividade.pdb
+C:\Users\Phellipe\Desktop\senai\c#\recursividade\obj\Debug\netcoreapp3.1\recursividade.csprojAssemblyReference.cache
+C:\Users\Phellipe\Desktop\senai\c#\recursividade\obj\Debug\netcoreapp3.1\recursividade.csproj.CoreCompileInputs.cache
+C:\Users\Phellipe\Desktop\senai\c#\recursividade\obj\Debug\netcoreapp3.1\recursividade.AssemblyInfoInputs.cache
+C:\Users\Phellipe\Desktop\senai\c#\recursividade\obj\Debug\netcoreapp3.1\recursividade.AssemblyInfo.cs
+C:\Users\Phellipe\Desktop\senai\c#\recursividade\obj\Debug\netcoreapp3.1\recursividade.dll
+C:\Users\Phellipe\Desktop\senai\c#\recursividade\obj\Debug\netcoreapp3.1\recursividade.pdb
+C:\Users\Phellipe\Desktop\senai\c#\recursividade\obj\Debug\netcoreapp3.1\recursividade.genruntimeconfig.cache
